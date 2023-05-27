@@ -1,2 +1,3 @@
 [MAIN]
+load-plugins=pylint_report
 disable=C0114,C0103, # missing-module-docstring
